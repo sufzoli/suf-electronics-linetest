@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name LineTest-rescue)(type Legacy)(uri ${KIPRJMOD}/LineTest-rescue.lib)(options "")(descr ""))
+  (lib (name interface)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/interface.lib)(options "")(descr ""))
+  (lib (name suf)(type Legacy)(uri C:/DATA/KiCAD/library/suf.lib)(options "")(descr ""))
+)
